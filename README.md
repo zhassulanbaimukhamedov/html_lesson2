@@ -38,3 +38,18 @@
 ```
 <input type="button" value='Кнопка "Привет мир"'>
 ```
+
+### Teги
+```
+<p>Paragraph</p>
+<h1>Header text 1</h1>
+<h2>Header text 2</h2>
+<h3>Header text 3</h3>
+<h4>Header text 4</h4>
+<h5>Header text 5</h5>
+<h6>Header text 6</h6>
+
+```
+
+
+
