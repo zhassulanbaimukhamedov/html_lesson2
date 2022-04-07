@@ -157,6 +157,40 @@ id должны быть уникальными. Поэтому
 ```
 <p id='p-txt'>Decode school</p>
 ```
+
+### CSS цвета
+ - Hexadecimal
+(#ffffff ) - 6 шестнадцатеричных цифр
+ - Встроенные
+(White, black)
+ - rgb  (Red, Green, Blue)
+(255,255,255)
+ - rgba, rgb с каналом alpha (RGBA) 
+(255,255,255,0.5)
+
+### Font
+ - font-size размер шрифта
+ - font-style стиль шрифта
+ - font-weight жирность шрифта
+ - font-family  семейство шрифтов
+ 
+ ### Свойства текста
+ - text-decoration преобразование текста uppercase, lowercase, capitalize
+ - text-align выравнивание текста center, left, right
+ - text-decoration оформление текста underline, overline, line-through, none
+ - line-height межстрочный интервал
+ - white-space перенос строк
+ - word-spacing промежутки между словами
+ - letter-spacing межбувенный интервал
+
+### background
+ - background-color цвет фона
+ - background-image картина на задний фон
+ - background-repeat повторение фона repeat, no-repeat
+ - background-size размер фона cover, contain
+ - background-position расположение фона top center right, left, bottom
+ - background-attachment фиксация фона fixed, scroll
+
 ### display - отображение элементов
 - атрибут, свойство display отвечает за вывод и визуальное отображение элементов на странице
 ```
