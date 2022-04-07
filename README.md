@@ -1,7 +1,7 @@
 # Знакомство с HTML, CSS
 
  
-![Test Image 1](avatar.png)
+
  
 
 ### HTML (HyperText Markup Language) 
@@ -225,3 +225,13 @@ id должны быть уникальными. Поэтому
 ```
 button:hover {background-color: tomato;}
 ```
+
+
+
+![Test Image 1](дз_1_недели_01_page-0001.jpg)
+![Test Image 1](дз_1_недели_02_page-0001.jpg)
+![Test Image 1](дз_1_недели_03_page-0001.jpg)
+![Test Image 1](дз_1_недели_04_page-0001.jpg)
+![Test Image 1](дз_1_недели_05_page-0001.jpg)
+
+
