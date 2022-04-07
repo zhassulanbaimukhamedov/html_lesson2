@@ -1,7 +1,7 @@
 # Знакомство с HTML, CSS
 
  
-//![Test Image 1](дз_1_недели_01.pdf)
+![Test Image 1](avatar.png)
  
 
 ### HTML (HyperText Markup Language) 
