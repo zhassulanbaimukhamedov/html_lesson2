@@ -1,6 +1,11 @@
 # Знакомство с HTML, CSS
 
 (avatar.png)
+![Test Image 1](avatar.png)
+
+![Test Image 2]("avatar.png")
+
+![Test Image 3](/avatar.png)
 
 ### HTML (HyperText Markup Language) 
  - Язык разметки гипертекста, используемый для создания документов в сети интернет.
