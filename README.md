@@ -235,3 +235,8 @@ button:hover {background-color: tomato;}
 ![Test Image 1](дз_1_недели_05_page-0001.jpg)
 
 
+https://www.figma.com/file/aISiV1QgWxw5yS7boXWs0u/1.-NRB-Consulting-Group?node-id=0%3A1
+https://www.figma.com/file/00w9bjKGNICfsH1hL2WmwG/2.-Trafalgar?node-id=0%3A1
+https://www.figma.com/file/NEkSq3cyksSRsSWH8RXKIa/3.-LaslesVPN?node-id=0%3A1
+https://www.figma.com/file/wkRaAQRMmvXVd7n7h7RV1Y/4.-SpeakySchool?node-id=1%3A6
+https://www.figma.com/file/lX0c14ZT7ZDMA0k6KTl8Lo/5.--Thousand-Sunny?node-id=1%3A2
